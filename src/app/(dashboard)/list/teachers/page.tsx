@@ -112,6 +112,9 @@ const TeacherListPage = async ({ searchParams }: { searchParams: { [key: string]
               contains: value,
               mode: "insensitive"
             }
+            break;
+          default:
+            break;
         }
       }
 
