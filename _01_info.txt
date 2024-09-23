@@ -1,0 +1,86 @@
+
+
+Lama Dev
+	Next.js School Management Dashboard UI Design Tutorial | React Next.js Responsive Admin Dashboard
+	https://www.youtube.com/watch?v=myYlGLFxZas
+
+	Next.js Full-Stack School Management App Full Tutorial | Role Based School Dashboard Project
+	https://www.youtube.com/watch?v=6sfiAyKy8Jo
+	https://github.com/safak/full-stack-school
+
+https://app.eraser.io
+
+npm i prisma
+npx prisma init
+
+Prisma School Management App Database Tables & Relationships
+  npx prisma migrate dev --name init
+	npx prisma studio
+
+How to Create Prisma Seed
+	npm i -d ts-node
+
+	npm install @prisma/client
+
+	npx prisma migrate reset
+
+Next.js Prisma Data Fetching
+
+Next.js School App Fetching Teachers
+
+Next.js Prisma Pagination Tutorial
+
+	npx prisma db push --force-reset
+	npx prisma db seed
+
+
+===================== List
+00:00 Introduction
+05:00 Installation 
+06:28 School Management App Database Structure & Relationships
+13:00 Next.js Prisma Tutorial
+15:20 Prisma School Management App Database Tables & Relationships
+34:34 How to Install PostgreSQL on Docker
+39:20 How to Create Prisma Seed
+45:42 Next.js Prisma Data Fetching
+49:17 Next.js School App Fetching Teachers
+52:52 Next.js Prisma Pagination Tutorial
+01:08:00 Next.js How to Fetch Data with Query Params on the URL
+01:17:46 Next.js Search Filter (Fetch Data with Search Params on the URL)
+01:21:12 Fetch Students
+01:27:00 Fetch Parents
+01:30:08 Fetch Subject
+01:32:29 Fetch Class
+01:36:00 Prisma Nested Query (Include, Select, Where)
+01:42:16 Fetch Exams
+01:48:28 Fetch Assignments
+01:51:12 Fetch Exam Results
+02:03:00 Fetch Events
+02:06:14 Fetch Announcements
+02:08:25 Next.js Role Based Authentication Tutorial
+02:12:05 Next.js Clerk Role Based Auth Tutorial
+02:31:08 Next.js Protect Routes with User Role
+02:39:15 How to Fetch Data According to User Role in Nexj.js
+03:09:17 School App Admin Homepage Data
+03:11:25 Fetch Chart Data
+03:16:55 Fetch Attendance Chart Data
+03:27:37 React Next.js Even Calendar Component
+03:35:35 Fetch School Announcement
+03:42:05 School App Teacher Homepage Data
+03:42:51 Next.js Big Calendar Tutorial (Add a recurring schedule)
+04:01:45 Next.js Forms with react-hook-form and Z od Validation
+04:09:25 Next.js Server Actions with Prisma and Zod
+04:13:16 React Next.js useActionState (useFormState) Tutorial 
+04:17:21 Next.js Notifications with React Toastify Library
+04:24:42 Delete Table Items with Server Actions
+04:28:28 Next.js Form Fetch Select Options from the Database
+04:38:50 School Classes (Create/Update/Delete with Server Actions)
+04:48:56 School Teachers (Create/Update/Delete with Server Actions)
+04:58:42 Image Upload with Next.js Cloudinary Widget
+05:03:16 Creating Teacher
+05:11:44 School Dashboard Single Teacher Page
+05:22:25 School Dashboard Single Student Page
+05:31:51 School Students (Create/Update/Delete with Server Actions)
+05:47:23 Next.js Role Based Data Mutation (Protect Database)
+06:01:10 How to Deploy Next.js App with Prisma and Postgres using  Docker
+06:12:45 Outro
